@@ -12,7 +12,8 @@
 -   17 歳: リリースされたばかりのChatGPTを駆使しながら、「Boothの購入履歴から累計散財額を計算するツール」を開発。先日7000ダウンロードを達成。
 -   18 歳: プログラミングを仕事として生活したいと思い、専門学校に入学。アルバイトの掛け持ちの負担が響き、半分鬱とPTSD状態に。
 -   19 歳: 将来の目標を大まかに決める。2年生に上がってから、HTML/CSS や JS などフロントエンドの勉強を始める。
+-   19 歳: 長期インターンシップに合格、Vue.jsとNuxt.jsに触れ始める。
 
 ## 使用技術
 
-[![skills](https://skillicons.dev/icons?i=html,css,js,react,ts,python)](https://skillicons.dev)
+[![skills](https://skillicons.dev/icons?i=html,css,js,react,vue,ts,python)](https://skillicons.dev)
