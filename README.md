@@ -16,4 +16,4 @@
 
 ## 使用技術
 
-[![skills](https://skillicons.dev/icons?i=html,css,js,react,vue,ts,python)](https://skillicons.dev)
+[![skills](https://skillicons.dev/icons?i=html,css,js,react,vue,ts,python,graphql)](https://skillicons.dev)
