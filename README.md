@@ -16,9 +16,12 @@
 </h2>
 
 <p align="center">
-  <a href="https://skillicons.dev/icons?i=js,ts,html,css,sass,py">
-    <img src="https://skillicons.dev/icons?i=js,ts,html,css,sass,py" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,ts,js,py,sass,css" />
   </a>
+</p>
+<p align="center">
+  (High ←  Confidence  → Low)
 </p>
 
 <h2 align="center">
@@ -26,9 +29,12 @@
 </h2>
 
 <p align="center">
-  <a href="https://skillicons.dev/icons?i=vue,nuxt,react">
-    <img src="https://skillicons.dev/icons?i=vue,nuxt,react" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nuxt,vue,react" />
   </a>
+</p>
+<p align="center">
+  (High ←  Confidence  → Low)
 </p>
 
 <h2 align="center">
@@ -36,7 +42,20 @@
 </h2>
 
 <p align="center">
-  <a href="https://skillicons.dev/icons?i=git,graphql,pinia,vuetify,vitest">
-    <img src="https://skillicons.dev/icons?i=github,git,graphql,pinia,vuetify,vitest" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vuetify,github,git,graphql,nodejs,pinia,vitest" />
+  </a>
+</p>
+<p align="center">
+  (High ←  Confidence  → Low)
+</p>
+
+<h2 align="center">
+  Other
+</h2>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=windows,apple,notion,netlify,npm" />
   </a>
 </p>
