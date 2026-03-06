@@ -1,15 +1,37 @@
-# 自己紹介
+<h1 align="center">
+  👋👋👋
+</h1>
 
-ぜるく / Amatsuka / 愛入Abby彩度 です。
-つよつよエンジニアの対義語です。
+<h4 align="center" font-size="1px">
+  I'm Junior Front-End Engineer.
+</h4>
 
-## 経歴
+<h2 align="center">
+  Languages
+</h2>
 
--   13 歳: Twitter の API に興味を持ち、祖父のパソコンで Python を触り始める。
--   14 歳: Twitter の空き ID 検索ツールなどで数万円を手に入れる。無断でスマホと中古PCを買って親に心配される。
--   15 歳: Discord で荒らし対策の Bot を開発。90 サーバー以上に導入される。よく API キーを Github にあげて警告されていた。
--   15 歳: 通信制高校に入学。学校のレポート視聴を自動化するツールを開発。
--   17 歳: リリースされたばかりのChatGPTを駆使しながら、「Boothの購入履歴から累計散財額を計算するツール」を開発。先日8000ダウンロードを達成。
--   18 歳: プログラミングを仕事として生活したいと思い、専門学校に入学。アルバイトの掛け持ちの負担が響き、半分鬱とPTSD状態に。
--   19 歳: 将来の目標を大まかに決める。2年生に上がってから、HTML/CSS や JS などフロントエンドの勉強を始める。
--   19 歳: 長期インターンシップに参加、Vue.jsとNuxt.jsに触れ始める。
+<p align="center">
+  <a href="https://skillicons.dev/icons?i=js,ts,html,css,sass,scss">
+    <img src="https://skillicons.dev/icons?i=js,ts,html,css,sass,scss" />
+  </a>
+</p>
+
+<h2 align="center">
+  Frameworks
+</h2>
+
+<p align="center">
+  <a href="https://skillicons.dev/icons?i=vue,nuxt,react">
+    <img src="https://skillicons.dev/icons?i=vue,nuxt,react" />
+  </a>
+</p>
+
+<h2 align="center">
+  Tools
+</h2>
+
+<p align="center">
+  <a href="https://skillicons.dev/icons?i=git,graphql,pinia,vuetify,vitest">
+    <img src="https://skillicons.dev/icons?i=git,graphql,pinia,vuetify,vitest" />
+  </a>
+</p>
