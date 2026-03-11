@@ -1,6 +1,3 @@
-<h1 align="center">
-  👋👋👋
-</h1>
 
 <h4 align="center" font-size="1px">
   I'm Junior Front-End Engineer.
