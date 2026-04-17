@@ -59,6 +59,7 @@
 <h2 align="center">
   GitHub Contribute
 </h2>
+
 <p align="center">
-  <img src="./profile-3d-contrib/profile-season.svg" alt="3D Contribution Graph" />
+  <img src="./profile-3d-contrib/profile-season.svg" alt="3D Contribution Graph" width="600" />
 </p>
