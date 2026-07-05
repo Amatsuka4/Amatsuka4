@@ -16,9 +16,6 @@
     <img src="https://skillicons.dev/icons?i=js,ts,html,py,sass,css" />
   </a>
 </p>
-<p align="center">
-  (High ←  Confidence  → Low)
-</p>
 
 <h2 align="center">
   Frameworks
@@ -29,9 +26,6 @@
     <img src="https://skillicons.dev/icons?i=nuxt,vue,react" />
   </a>
 </p>
-<p align="center">
-  (High ←  Confidence  → Low)
-</p>
 
 <h2 align="center">
   Tools
@@ -41,9 +35,6 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=vuetify,github,git,graphql,nodejs,pinia,vitest" />
   </a>
-</p>
-<p align="center">
-  (High ←  Confidence  → Low)
 </p>
 
 <h2 align="center">
